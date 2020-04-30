@@ -30,7 +30,7 @@
     "chart.js": "^2.7.3",
     "core-js": "^2.5.4",
     "ionicons": "^4.4.6",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jspdf": "^1.5.3",
     "microsoft-adal-angular6": "^1.0.0",
     "moment": "^2.22.2",
