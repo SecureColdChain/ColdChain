@@ -33,7 +33,7 @@
     "bluetooth-hci-socket": "^0.5.1",
     "connectivity": "1.0.1",
     "fs": "0.0.1-security",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "macaddress": "^0.2.9",
     "nmea": "^0.1.0",
     "noble": "^1.9.1",
